@@ -1,0 +1,5 @@
+{"wallets": [
+    {"id": 0, "currency": "USD", "balance": 150},
+    {"id": 1, "currency": "GBP", "balance": 600},
+    {"id": 2, "currency": "EUR", "balance": 1500}
+]}
